@@ -4,6 +4,7 @@ date: 2020-02-01T16:10:24+09:00
 images: []
 tags: ["spring", "reactive"]
 categories: ["develop"]
+key: 2020-02-01-spring-using-together-jpa-and-r2dbc
 ---
 
 # 들어가며
