@@ -23,8 +23,13 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
+
+title: About
 key: page-about
+date: 2019-12-31T00:00:00+09:00
+
 ---
+# Jiwhun Kim
 
 ## Experience
 - Woowa Brothers Corp
