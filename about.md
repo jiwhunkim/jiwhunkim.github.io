@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-# Jiwhun Kim
+# About
 
 ## Experience
 - Woowa Brothers Corp
