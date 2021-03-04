@@ -26,8 +26,6 @@ titles:
 key: page-about
 ---
 
-# About
-
 ## Experience
 - Woowa Brothers Corp
   2020 ~ Present
