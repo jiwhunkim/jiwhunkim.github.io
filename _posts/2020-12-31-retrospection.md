@@ -1,6 +1,6 @@
 ---
 title: 2020 회고
-tags: []
+tags: ["retrospection"]
 date: 2020-12-31T00:00:00+09:00
 key: 2020-12-31-retrospection
 ---

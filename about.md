@@ -33,34 +33,36 @@ date: 2020-12-31T00:00:00+09:00
 # Jiwhun Kim
 
 ## Experience
-- Woowa Brothers Corp
+- Woowa Brothers Corp\
+  Software Engineer\
   2020 ~ Present
 
-- Amorepacific
+- Amorepacific\
+  Software Engineer\
   2020 ~ 2020
 
-- NBT
-  Software Engineer
+- NBT\
+  Software Engineer\
   2018 ~ 2020
 
-- PLNC Technology
-  Developer
+- PLNC Technology\
+  Developer\
   2012 ~ 2017
 
-- Freegine
-  Frontend Developer
+- Freegine\
+  Frontend Developer\
   2009 ~ 2011
 
 ## Education
-- Seokyung Universty
-  Computer Science
+- Seokyung Universty\
+  Computer Science\
   2005 ~ 2012
 
 ## Licenses & Certifications
-- Cloud Engineering with Google Cloud Specialization
-  Coursera
+- Cloud Engineering with Google Cloud Specialization\
+  Coursera\
   2020.05
 
-- Architecting with Google Kubernetes Engine Specialization
-  Coursera
+- Architecting with Google Kubernetes Engine Specialization\
+  Coursera\
   2020.04
