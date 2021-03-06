@@ -26,7 +26,7 @@ titles:
 
 title: About
 key: page-about
-date: 2019-12-31T00:00:00+09:00
+date: 2020-12-31T00:00:00+09:00
 
 ---
 
@@ -35,6 +35,9 @@ date: 2019-12-31T00:00:00+09:00
 ## Experience
 - Woowa Brothers Corp
   2020 ~ Present
+
+- Amorepacific
+  2020 ~ 2020
 
 - NBT
   Software Engineer
