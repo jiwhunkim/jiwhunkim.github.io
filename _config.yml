@@ -43,7 +43,7 @@ giscus:
   category-id:         "DIC_kwDOJcwGPs4CWI0m"
   mapping:             "pathname"
   reaction-enabled:    "1"
-  theme:               "preferred_color_scheme"
+  theme:               "light"
   crossorigin:         "anonymous"
   lang:                "en"
   strict:              "0"
