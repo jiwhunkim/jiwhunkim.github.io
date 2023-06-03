@@ -2,8 +2,8 @@
 layout: post
 title: 2023 우아한 스터디 - 우아한 대규모 시스템 설계
 tags: ["study"]
-date: 2022-12-31T00:00:00+09:00
-key: 2022-12-31-retrospection
+date: 2023-06-01T00:00:00+09:00
+key: 2023-06-01-woowa-system-design-study
 ---
 
 # 1장 사용자 수에 따른 규모 확장성
