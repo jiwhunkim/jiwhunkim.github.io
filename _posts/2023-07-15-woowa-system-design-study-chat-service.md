@@ -12,7 +12,7 @@ key: 2023-07-15-woowa-system-design-study-chat-service
 - 사용자가 많아지면서 인접한 국가에서 사용하기 시작함
 - 특정날(설날, 크리스마스 등)에 메시지 전송량이 매우 많음
 - 참고자료
-  - https://www.slideshare.net/awskorea/aws-summit-seoul-2023-aws-native
+  - [천만 사용자를 위한 카카오의 AWS Native 글로벌 채팅 서비스](https://www.slideshare.net/awskorea/aws-summit-seoul-2023-aws-native)
 
 ## 질문
 - 데이터베이스
