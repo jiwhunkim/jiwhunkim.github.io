@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023 우아한 스터디 - 우아한 대규모 시스템 설계 - 주문 플랫폼
+title: 2023 우아한 스터디 - 우아한 대규모 시스템 설계 - OTT 추천 시스템
 tags: ["study"]
 date: 2023-07-29T00:00:00+09:00
 key: 2023-07-29-woowa-system-design-study-ott-recommend
