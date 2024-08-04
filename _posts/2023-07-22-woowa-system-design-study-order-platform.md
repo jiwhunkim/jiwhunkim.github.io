@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023 우아한 스터디 - 우아한 대규모 시스템 설계 - 주문 플랫폼
+title: 2023-07-22 우아한 스터디 - 우아한 대규모 시스템 설계 - 주문 플랫폼
 tags: ["study"]
 date: 2023-07-22T00:00:00+09:00
 key: 2023-07-22-woowa-system-design-study-order-platform

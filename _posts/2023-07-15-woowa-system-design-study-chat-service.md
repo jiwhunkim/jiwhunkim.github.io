@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023 우아한 스터디 - 우아한 대규모 시스템 설계 - 채팅 서비스 만들고 확장하기
+title: 2023-07-15 우아한 스터디 - 우아한 대규모 시스템 설계 - 채팅 서비스 만들고 확장하기
 tags: ["study"]
 date: 2023-07-15T00:00:00+09:00
 key: 2023-07-15-woowa-system-design-study-chat-service
